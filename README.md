@@ -1,7 +1,7 @@
-# EXCHANGE-HIBRIDA-DE-LIQUIDEZ-PROGRAMADA-CON-COMPENSACION-SOBERANA-ELH-CAS-2.0
+# EXCHANGE-HIBRIDA-CON-BOLSA-DE-VALORES-PARA-LIQUIDEZ-PROGRAMADA-CON-COMPENSACION-SOBERANA-ELH-CAS-2.0
 
 
-ELH-CAS 2.0: Exchange Híbrida de Liquidez Programada con Compensación Atómica Soberana
+ELH-CAS 2.0: Exchange Híbrida con Bolsa de Valores para Liquidez Programada con Compensación Atómica Soberana
 
 Autor: Roberth Willians Mendoza Requena
 GitHub: @reumend
